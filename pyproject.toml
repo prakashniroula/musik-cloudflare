@@ -1,7 +1,7 @@
 [project]
-name = "hello-python"
+name = "musik-cloudflare"
 version = "0.1.0"
-description = "Python hello world worker"
+description = "Cloudflare worker for musik"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
